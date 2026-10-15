@@ -24,7 +24,7 @@ The default point is short-term debt plus half of long-term debt (KMV convention
 | Sep 2026 | 51% | 4.24 | 3.86 | 3.46 |
 | Oct 2026 (14th) | 51% | 4.30 | 4.07 | 3.67 |
 
-DD roughly halved over the year as equity volatility rose from 30% to 51%. PDs remain tiny (below 10⁻⁴ under Merton) because debt is only 12-14% of asset value. The naive model is the most conservative once volatility rises.
+DD roughly halved over the year as equity volatility rose from 30% to 51%. PDs remain tiny (below 10⁻⁴ under Merton) because debt is only 11-14% of asset value. The naive model is the most conservative once volatility rises.
 
 ## Data
 
